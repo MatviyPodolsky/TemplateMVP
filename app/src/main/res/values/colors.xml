@@ -3,4 +3,26 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="tb_color">#18232e</color>
+    <color name="bg_color">#181e27</color>
+
+    <!--App colors-->
+    <color name="color_1">#ffffff</color>
+    <color name="color_2">#111f2b</color>
+    <color name="color_3">#111821</color>
+    <color name="color_4">#0d68e4</color>
+    <color name="color_5">#0da5e4</color>
+    <color name="color_6">#ed1c24</color>
+    <color name="color_7">#f71550</color>
+
+    <!--dialog-->
+    <color name="dialog_negative_color">#a1a1a1</color>
+    <color name="dialog_default_text">#c7c7c7</color>
+
+    <!--other colors-->
+    <color name="hint_color">#4cffffff</color>
+    <color name="et_line_color">#80ffffff</color>
+    <color name="black_effective">#2a2a2a</color>
+
 </resources>
